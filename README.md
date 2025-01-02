@@ -13,3 +13,4 @@
 
 ---
 [참고 Github](https://github.com/metamath1/pytorch-stable-diffusion-fine-tuning/blob/main/02-sd_lora_finetuning.ipynb)
+[Lora 논문](https://arxiv.org/pdf/2106.09685)
